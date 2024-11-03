@@ -1,0 +1,12 @@
+names:
+- LicensePlate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: phil_license_plate_detection
+  url: https://universe.roboflow.com/phlicenseplate-7tvqd/phil_license_plate_detection/dataset/2
+  version: 2
+  workspace: phlicenseplate-7tvqd
+test: /content/Phil_License_Plate_Detection-2/test/images
+train: /content/Phil_License_Plate_Detection-2/train/images
+val: /content/Phil_License_Plate_Detection-2/valid/images
